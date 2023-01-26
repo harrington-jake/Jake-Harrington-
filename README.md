@@ -3,11 +3,16 @@ My first Github Repository. An introduction of myself and my interests.
 ## Who Am I 
 Hello everyone! My name is Jake Harrington. I am an M.S. student studying geological oceanpgraphy at the University of Rhode Island Graduate School of Oceanography. My primary research interests include shoreline dynamics, wetland resilience, and coastal processes in general.  
 
+*A photo of me* 
+
+![Jake_GSO](https://user-images.githubusercontent.com/123588116/214932323-61163d5a-4d64-4e82-a6dd-e7d8d0eff253.PNG)
+
+
 ## Background 
 I was born and rasied in Aiken, South Carolina, but grew up spending my summers on the coast of Maine. I attened the University of South Carolina for undergrad where I earned a B.S. in Geology. I graduated from the University of South Carolina in 2020 (a COVID grad) and was accepted into the Univeristy of Rhode Island for grad school for the Fall of 2020. I ended up deferring enrollment to URI to participate in a Fulbright grant teaching English in Latvia for a year. Unfortunately, COVID complications led to a series of delays that resulted in my not starting the Fulbright until the Fall of 2021 (a full year later than planned) and thus delaying my matriculation to URI until the Fall of 2022.    
 
 ## Interests and Hobbies
-I tend to try out a new hobby every year or two before getting bored and moving on the next. Growing up, aside from in addition to playing sports (particularly soccer and tennis), I did a lot of self-taught card magic, practiced knife and axe throwing (as shown in the video below), learned to play the Irish tin whistle, rode the unicycle, and practiced taekwondo.
+I tend to try out a new hobby every year or two before getting bored and moving on the next. Growing up, in addition to playing sports (particularly soccer and tennis), I did a lot of self-taught card magic, practiced knife and axe throwing (as shown in the video below), learned to play the Irish tin whistle, rode the unicycle, and practiced taekwondo.
 
 https://user-images.githubusercontent.com/123588116/214928190-a5e902d0-bf74-4752-b44d-994ef47a1994.mp4
 
